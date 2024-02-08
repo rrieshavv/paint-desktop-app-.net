@@ -1,0 +1,10 @@
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\obj\Debug\assignment-techsmart.csproj.AssemblyReference.cache
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\obj\Debug\assignment_techsmart.Properties.Resources.resources
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\obj\Debug\assignment-techsmart.csproj.GenerateResource.cache
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\obj\Debug\assignment-techsmart.csproj.CoreCompileInputs.cache
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\bin\Debug\assignment-techsmart.exe.config
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\bin\Debug\assignment-techsmart.exe
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\bin\Debug\assignment-techsmart.pdb
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\obj\Debug\assignment-techsmart.exe
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\obj\Debug\assignment-techsmart.pdb
+C:\dev\fullstack\react + .NET crud app\assignment-techsmart\assignment-techsmart\obj\Debug\assignment_techsmart.Form1.resources
